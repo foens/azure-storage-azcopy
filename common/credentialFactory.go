@@ -32,7 +32,7 @@ import (
 
 	gcpUtils "cloud.google.com/go/storage"
 
-	"github.com/Azure/azure-storage-azcopy/v10/azbfs"
+	"github.com/foens/azure-storage-azcopy/v10/azbfs"
 	"github.com/Azure/azure-storage-blob-go/azblob"
 	"github.com/Azure/go-autorest/autorest/adal"
 	"github.com/minio/minio-go"

@@ -35,11 +35,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Azure/azure-storage-azcopy/v10/azbfs"
-	"github.com/Azure/azure-storage-azcopy/v10/sddl"
+	"github.com/foens/azure-storage-azcopy/v10/azbfs"
+	"github.com/foens/azure-storage-azcopy/v10/sddl"
 	"github.com/minio/minio-go"
 
-	"github.com/Azure/azure-storage-azcopy/v10/common"
+	"github.com/foens/azure-storage-azcopy/v10/common"
 	"github.com/Azure/azure-storage-blob-go/azblob"
 	"github.com/Azure/azure-storage-file-go/azfile"
 )

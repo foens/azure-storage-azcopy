@@ -23,7 +23,7 @@ package cmd
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/Azure/azure-storage-azcopy/v10/jobsAdmin"
+	"github.com/foens/azure-storage-azcopy/v10/jobsAdmin"
 	"net/url"
 	"runtime"
 	"strings"
@@ -32,7 +32,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/Azure/azure-storage-azcopy/v10/common"
+	"github.com/foens/azure-storage-azcopy/v10/common"
 )
 
 type copyTransferProcessor struct {

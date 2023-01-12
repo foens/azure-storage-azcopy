@@ -4,7 +4,7 @@ import (
 	gcpUtils "cloud.google.com/go/storage"
 	"fmt"
 	"github.com/Azure/azure-pipeline-go/pipeline"
-	"github.com/Azure/azure-storage-azcopy/v10/common"
+	"github.com/foens/azure-storage-azcopy/v10/common"
 	"golang.org/x/oauth2/google"
 	"io/ioutil"
 	"net/url"

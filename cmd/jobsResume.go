@@ -25,12 +25,12 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/Azure/azure-storage-azcopy/v10/jobsAdmin"
+	"github.com/foens/azure-storage-azcopy/v10/jobsAdmin"
 	"strings"
 	"time"
 
-	"github.com/Azure/azure-storage-azcopy/v10/common"
-	"github.com/Azure/azure-storage-azcopy/v10/ste"
+	"github.com/foens/azure-storage-azcopy/v10/common"
+	"github.com/foens/azure-storage-azcopy/v10/ste"
 	"github.com/spf13/cobra"
 )
 

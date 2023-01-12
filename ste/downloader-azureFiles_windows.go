@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/Azure/azure-storage-azcopy/v10/common"
-	"github.com/Azure/azure-storage-azcopy/v10/sddl"
+	"github.com/foens/azure-storage-azcopy/v10/common"
+	"github.com/foens/azure-storage-azcopy/v10/sddl"
 	"github.com/Azure/azure-storage-file-go/azfile"
 	"github.com/hillu/go-ntdll"
 

@@ -27,7 +27,7 @@ import (
 
 	"github.com/Azure/azure-storage-file-go/azfile"
 
-	"github.com/Azure/azure-storage-azcopy/v10/common"
+	"github.com/foens/azure-storage-azcopy/v10/common"
 )
 
 type richSMBPropertyHolder interface {

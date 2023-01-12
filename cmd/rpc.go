@@ -24,11 +24,11 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/Azure/azure-storage-azcopy/v10/jobsAdmin"
+	"github.com/foens/azure-storage-azcopy/v10/jobsAdmin"
 	"io/ioutil"
 	"net/http"
 
-	"github.com/Azure/azure-storage-azcopy/v10/common"
+	"github.com/foens/azure-storage-azcopy/v10/common"
 )
 
 // Global singleton for sending RPC requests from the frontend to the STE
